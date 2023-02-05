@@ -1,3 +1,8 @@
+# Memo
+
+- Ops needed for mobilenet v3
+    - [ ] HardSigmoid
+
 <center><img src="logo.svg" alt="WONNX" width="700"/></center>
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/webonnx/wonnx/CI)
